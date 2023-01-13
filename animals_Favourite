@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+        <h1> animals favourite </h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th> pet name</th>
+                    <th>spicies</th>
+                    <th>color</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr>
+                    <td> Tornado </td>
+                    <td> Horce</td>
+                    <td> Black </td>
+    
+                </tr>
+                <tr>
+                    <td> Susi  </td>
+                    <td> Dog </td>
+                    <td> white </td>
+                </tr>
+                <tr>
+                    <td>Lupita </td>
+                    <td> Gamster </td>
+                    <td> Coffe</td>
+                </tr>
+            </tbody>
+         </table>   
+    </body>
+</html>
